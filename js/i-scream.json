@@ -36,6 +36,28 @@
         "candy sprinkles"
       ],
       "image": "strawberry-sprinkle.svg"
+    },
+    {
+      "name": "Heil Hydra",
+      "calories": 666,
+      "type": "frozen yogurt",
+      "ingredients": [
+        "wild strawberries",
+        "fresh raspberries",
+        "hot fudge sauce"
+      ],
+      "image": "heil-hydra.svg"
+    },
+    {
+      "name": "Blobb Globb",
+      "calories": 285,
+      "type": "frozen yogurt",
+      "ingredients": [
+        "pistachios",
+        "limeade",
+        "fruit chunks"
+      ],
+      "image": "blobb-globb.svg"
     }
   ]
 }
